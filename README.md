@@ -1,6 +1,6 @@
 # Homelab Infrastructure as Code
 
-Production-grade Kubernetes homelab with Proxmox, Talos Linux, and GitOps.
+Production-grade Kubernetes homelab with Proxmox, Talos Linux, and GitOps. more https://medium.com/@sylvain.fano/how-i-built-a-production-grade-kubernetes-homelab-in-2-weekends-with-claude-code-b92bca5091d3
 
 ## Overview
 
